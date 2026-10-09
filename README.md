@@ -99,3 +99,4 @@
 ### Sinalários
 
 - [Dicionário Jurídico de Libras](https://www.tjsc.jus.br/dicionario-juridico-de-libras)
+- [Sinalário de Informática - IFCE](https://www.youtube.com/@LibrasnaEPTSinalario)
