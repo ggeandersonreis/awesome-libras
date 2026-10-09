@@ -67,7 +67,6 @@
 ### Trabalhos
 
 - [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://web.archive.org/web/20240723174221/https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
-- [Cultura Surda: O que se vê, o que se ouve](https://core.ac.uk/download/pdf/12428313.pdf)
 - [Estudos sobre expressões não-manuais da libras: Constatações e perspectivas](https://proxy.furb.br/ojs/index.php/linguagens/article/view/7287)
 - [História das pessoas surdas: da exclusão à política educacional brasileira atual](http://acervodigital.unesp.br/handle/123456789/65523)
 - [Legendagem para surdos e ensurdecidos(LSE): Um Estudo de Recepção com Surdos da Região Sudeste](https://www.revistas.usp.br/tradterm/article/view/69132)
