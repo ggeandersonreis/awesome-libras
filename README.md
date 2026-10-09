@@ -38,9 +38,9 @@
 
 ### Empresas
 
-- [HandTalk](https://www.handtalk.me/br/inicio)
+- [HandTalk](https://www.handtalk.me/br)
 - [Pessoalize](https://pessoalize.com/)
-- [Wise Hands](https://wisehands.org/?lang=pt)
+- [Wise Hands](https://wisehands.com.br/)
 
 ### Ferramentas
 
@@ -66,7 +66,7 @@
 
 ### Trabalhos
 
-- [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
+- [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://web.archive.org/web/20240723174221/https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
 - [Comunicação Surda? Como o mercado audiovisual recebe as leis de inclusão aos surdos](https://drive.google.com/file/d/14iNPQqqg0efcBu2riX-dYLXMsPnPKkX6/view?usp=sharing)
 - [Cultura Surda: O que se vê, o que se ouve](https://core.ac.uk/download/pdf/12428313.pdf)
 - [Estudos sobre expressões não-manuais da libras: Constatações e perspectivas](https://proxy.furb.br/ojs/index.php/linguagens/article/view/7287)
@@ -81,8 +81,8 @@
 ### Leitura
 
 - [A epopeia ignorada – A pessoa deficiente na história do mundo de ontem e de hoje. Otto Marques da Silva](https://www.estantevirtual.com.br/livros/otto-marques-da-silva/a-epopeia-ignorada/1150934711)
+- [As pessoas com deficiência na história do Brasil – Uma trajetória de silêncio e gritos (antes: Caminhando em silêncio). Emílio Figueira](https://www.estantevirtual.com.br/livro/as-pessoas-com-deficiencia-na-historia-do-brasil-uma-trajetoria-de-silencio-e-gritos-FV6-1328-000-BK)
 - [Bullying contra surdos: a manifestação silenciosa da resiliência. Telma Franco](https://www.amazon.com.br/Bullying-contra-surdos-manifesta%C3%A7%C3%A3o-Transdisciplinaridades-ebook/dp/B074T2S2SC/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2G2L662SQW7Y1&dchild=1&keywords=surdos+que+ouvem&qid=1632585086&s=digital-text&sprefix=surdos+que+ou%2Caps%2C289&sr=1-8)
-- [Caminhando no silêncio – Uma introdução à trajetória das pessoas com deficiência na história do Brasil. Emílio Figueira](https://www.orelhadelivro.com.br/livros/697501/caminhando-em-silencio-uma-introducao-a-trajetoria-da-pessoa-com-deficiencia-na-historia-do-brasil/)
 - [Libras. Ronice Müller De Quadros](https://www.amazon.com.br/Libras-Ronice-M%C3%BCller-Quadros/dp/8579341663/ref=sr_1_14?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Libras&qid=1632584824&sr=8-14)
 - [Libras em Contexto: curso básico, livro do professor instrutor. Felipe & Monteiro](https://www.estantevirtual.com.br/livros/tanya-a-felipe/libras-em-contexto-curso-basico-livro-do-estudante-cursista/2463040814?livro_usado=1&b_order=preco&gclid=Cj0KCQjwkbuKBhDRARIsAALysV5nuNAlz49o9mDP2UN0CyvwiXOUV2ZvOIIbJfl8qFC7y_7qH5dL2IsaAr9hEALw_wcB)
 - [Libras, que língua é essa? Audrei Gesser](https://www.amazon.com.br/Libras-que-L%C3%ADngua-Audrei-Gesser/dp/8579340012/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Libras&qid=1632584743&sr=8-1)
@@ -99,4 +99,3 @@
 ### Sinalários
 
 - [Dicionário Jurídico de Libras](https://www.tjsc.jus.br/dicionario-juridico-de-libras)
-- [Sinalário de TI - Fesai](https://www.fesai.herokuapp.com/home)
