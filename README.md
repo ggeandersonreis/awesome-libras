@@ -67,7 +67,6 @@
 ### Trabalhos
 
 - [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://web.archive.org/web/20240723174221/https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
-- [Comunicação Surda? Como o mercado audiovisual recebe as leis de inclusão aos surdos](https://drive.google.com/file/d/14iNPQqqg0efcBu2riX-dYLXMsPnPKkX6/view?usp=sharing)
 - [Cultura Surda: O que se vê, o que se ouve](https://core.ac.uk/download/pdf/12428313.pdf)
 - [Estudos sobre expressões não-manuais da libras: Constatações e perspectivas](https://proxy.furb.br/ojs/index.php/linguagens/article/view/7287)
 - [História das pessoas surdas: da exclusão à política educacional brasileira atual](http://acervodigital.unesp.br/handle/123456789/65523)
@@ -76,7 +75,7 @@
 - [Os processos de formação de palavra na Libras](https://www.ssoar.info/ssoar/bitstream/handle/document/10171/ssoar-etd-2006-2-felipe-os_processos_de_formacao_de.pdf?sequence=1&isAllowed=y&lnkname=ssoar-etd-2006-2-felipe-os_processos_de_formacao_de.pdf)
 - [Surdez na Idade Média / Moderna](https://culturasurda.net/idade-media-moderna/)
 - [Tradução Audiovisual Acessível (TAVA): A segmentação linguística na legendagem para surdos (LSE) da campanha política na televisão em Fortaleza](https://periodicos.sbu.unicamp.br/ojs/index.php/tla/article/view/8649289/16541)
-- [Um pouco mais da história da educação dos surdos, segundo Ferdinand Berthier](https://www.researchgate.net/publication/315998146_Um_pouco_mais_da_historia_da_educacao_dos_surdos_segundo_Ferdinand_Berthier)
+- [Um pouco mais da história da educação dos surdos, segundo Ferdinand Berthier](https://doi.org/10.20396/etd.v7i2.807)
 
 ### Leitura
 
